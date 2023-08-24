@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Hassan Kareem
-- 👀 I’m interested in progamming
-- 🌱 I’m currently learning Flutter 
+- 👀 I’m interested in building my own international IT Company
+- 🌱 I’m currently learning Remote Team Management 
 - 📫 Reach me through my email address (programmingwithhassan@gmail.com)
 
 <!---

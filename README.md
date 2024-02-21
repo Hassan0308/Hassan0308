@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Muhammad Hassan Kareem
-- 👀 I’m interested in building my own international IT Company
-- 🌱 I’m currently learning Remote Team Management 
+- 👀 I’m interested in "Simplifying Life: Creating Easy Solutions for Everyday Challenges."
+- 🌱 I’m currently managing Remote Team 
+-  🌱 I’m currently learning BLoC state management in flutter
 - 📫 Reach me through my email address (programmingwithhassan@gmail.com)
 
 <!---
